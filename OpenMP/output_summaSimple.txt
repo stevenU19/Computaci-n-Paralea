@@ -1,0 +1,5 @@
+
+Suma de los primeros n numeros naturales
+Ingrese un Entero Positivo: 10 
+Suma Total = 55
+La ejecucion tardo 0.005825 segundos
