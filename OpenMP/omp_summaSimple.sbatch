@@ -15,6 +15,5 @@ module load gcc
 ## Se compila el archivo "omp_summaSimple.c" y se genera el ejecutable "output_summaSimple"
 gcc omp_summaSimple.c -o output_summaSimple
 
-## Ejecucion del programa
-./output_summaSimple
-
+## Ejecucion del programa, ingresando 10 como entrada y exportando la salida a un txt
+echo "10" | ./output_summaSimple > output_summaSimple.txt
