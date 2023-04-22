@@ -1,0 +1,4 @@
+
+Suma de los primeros n numeros naturales
+Ingrese un Entero Positivo:10 
+Suma Total = 55
