@@ -1,0 +1,15 @@
+
+Suma de los primeros n numeros naturales (Sin Paralelizar)
+Ingrese un Entero Positivo: 10 
+Suma Total = 55
+La ejecucion tardo 0.000003 segundos
+
+Suma de los primeros n numeros naturales (Paralelizado con OMP)
+Ingrese un Entero Positivo: 10 
+Suma Total = 55
+La ejecucion tardo 0.004529 segundos
+
+Suma de los primeros n numeros naturales (Paralelizado con MPI)
+Ingrese un Entero Positivo: 10
+Suma Total = 55
+La ejecucion tardo 3.721245 segundos
